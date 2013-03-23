@@ -35,8 +35,7 @@ class Impression
     /**
      * The class constructor.
      *
-     * Sets the config path used to locate pageStrategy elements, defaults to the current working directory if no config
-     * path is provided.
+     * Sets the template file and static path.
      * @param String $template The directory path to the antie config directory.
      * @param String $static_path The path to static assets
      */
